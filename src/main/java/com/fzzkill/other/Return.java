@@ -4,6 +4,6 @@ public enum Return {
 
     Java8,
     Download,
-    Close
+    Close,
 
 }

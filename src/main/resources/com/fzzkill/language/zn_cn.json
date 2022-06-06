@@ -1,0 +1,9 @@
+{
+  "JavaFX": {
+    "Title": "FML|不是Forge Mod Loader"
+  },
+  "JavaSwing": {
+    "Title": "FML-Swing|未能找到带有JavaFx的运行时",
+    "Button": ["放弃本次FML运行", "更改运行时","下载JavaFx"]
+  }
+}
